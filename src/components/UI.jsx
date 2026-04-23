@@ -64,7 +64,7 @@ const allDialogues = [
   { speaker: "analyze.png", name: "Hung Di Du", text: "Từ sau đó, hàng loạt văn bản nền tảng ra đời.", audio: "34.wav" }, // Trang 34
   { speaker: "thinking.png", name: "Hung Di Du", text: "Nhiều nhà nghiên cứu nhận định rằng, nếu không có tư duy đổi mới và bản lĩnh của ông Đỗ Mười, nền kinh tế Việt Nam khi đó có thể đã sụp đổ.", audio: "35.wav" }, // Trang 35
   { speaker: "proud.png", name: "Hung Di Du", text: "Trong lúc đất nước khủng hoảng, ông chọn con đường cải cách thực chất, dựa vào nội lực và ý chí dân tộc.\nThay vì giải pháp ngắn hạn, ông đã giúp Việt Nam thoát khỏi siêu lạm phát và đặt nền móng cho nền kinh tế thị trường định hướng xã hội chủ nghĩa.\nTừ đó mở ra kỷ nguyên đổi mới và phát triển bền vững cho đất nước.", audio: "36.wav" }, // Trang 36
-  { speaker: "confident.png", name: "Hung Di Du", text: "Có những giai đoạn lịch sử mà một quyết định đúng không chỉ cứu một nền kinh tế, mà còn mở ra cả một thời đại mới.", audio: "37.wav" }, // Trang 37
+  { speaker: "smile.png", name: "Hung Di Du", text: "Có những giai đoạn lịch sử mà một quyết định đúng không chỉ cứu một nền kinh tế, mà còn mở ra cả một thời đại mới.\nCảm ơn các bạn đã quan tâm và theo dõi!", audio: "37.wav" }, // Trang 37
 ];
 
 export const UI = () => {
